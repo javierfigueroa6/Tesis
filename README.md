@@ -4,12 +4,5 @@ Este repositorio documenta el proyecto de investigación "Métodos Estadísticos
 Orden para ejecutar los archivos:
 librerias.R -> lectura_secuencias.R -> taxonomia.R -> normalizaciones.R -> composicion_taxonomica -> diversidad_alfa.R -> diversidad_beta_y_L2FC-> analisis_estadistico.ipynb -> CAN_NetAna.ipynb
 
-<img width="82" alt="Captura de pantalla 2021-04-22 010133" src="https://github.com/user-attachments/assets/21b35f4b-f229-4dff-bb79-13612d64ebfe">
-
-A continuación se muestran algunps gráficos/figuras que se obtuvieron en el proceso:
-
-## Calidad de las lecturas por base de una secuencia Forward
-
-##
 
 
